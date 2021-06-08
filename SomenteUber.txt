@@ -1,0 +1,82 @@
+
+----------------------
+08 MAI
+
+----------------------
+10 MAI
+Uber *Uber *Trip	6,25 - Irene
+
+----------------------
+12 MAI
+Uber *Trip	22,43 - Laryssa
+Uber *Trip	22,99 - Laryssa
+
+----------------------
+13 MAI
+Uber *Trip	10,49 - Lucas & Laryssa
+Uber*Trip	11,99 - Lucas & Laryssa
+
+----------------------
+15 MAI
+
+----------------------
+17 MAI
+Uber *Uber *Trip	6,98 - Aline
+Uber *Trip	11,75 - Outros
+
+----------------------
+21 MAI
+
+----------------------
+22 MAI
+Uber *Trip	20,03 - Outros
+Uber *Trip	6,67 - Aline
+
+----------------------
+24 MAI
+Uber *Trip	15,85 - Lucas & Laryssa
+Uber *Trip	22,93 - Lucas & Laryssa
+Uber *Trip	9,13 - Aline
+
+----------------------
+26 MAI
+Uber *Trip	23,64 - Irene
+Uber *Trip	20,94 - Irene
+
+----------------------
+28 MAI
+Uber *Trip	18,83 - Laryssa
+Uber *Trip	9,46 - Aline
+Uber *Trip	23,99 - Laryssa
+Uber *Trip	10,49 - Aline
+
+----------------------
+29 MAI
+Uber *Trip	8,28 - Aline
+
+----------------------
+31 MAI
+
+----------------------
+02 JUN
+Uber *Trip Help.Uber.C	6,56 - Aline
+
+----------------------
+05 JUN
+Uber *Trip	22,92 - Laryssa
+Uber *Trip Help.Uber.C	20,78 - Laryssa
+
+----------------------
+07 JUN
+Uber*Trip	13,99 - Lucas & Laryssa
+Uber*Trip	10,92 - Lucas & Laryssa
+
+----------------------
+['Uber: R$ 358']
+['Lucas: R$ 0']
+['Laryssa: R$ 131.94']
+['Lucas&Laryssa: R$ 86.17']
+['Irene: R$ 50.83']
+['Aline: R$ 57.57000000000001']
+['Outros: R$ 31.78']
+['Uber 24 compras.']
